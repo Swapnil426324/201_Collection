@@ -19,7 +19,7 @@ public class Ex3 {
 		int i;
 		for( i=0;i<ol.length;i++) {
 			System.out.println(ol[i]);
-		}
+		}System.out.println();
 
 	}
 
